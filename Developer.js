@@ -1,6 +1,6 @@
 // function
 // constructor function
-let Developer = function() {
+const Developer = function() {
 
 
 

@@ -1,5 +1,5 @@
 // Developer data
-let developerData = [
+const developerData = [
     {
         ID          : 01,
         Name        : 'Emadul islam',
